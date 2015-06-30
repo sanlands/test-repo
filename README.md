@@ -4,6 +4,6 @@
 ### this is a tertiary heading
 this is a readme
 
-*first
-*second
-*third
+* first
+* second
+* third
